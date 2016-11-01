@@ -97,6 +97,7 @@
 					B2DDD0D91DC543C500EA7ABF = {
 						CreatedOnToolsVersion = 7.1.1;
 						DevelopmentTeam = 7AS4UYFG9W;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -252,6 +253,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.johnnyB.Navigation-Bar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -263,6 +265,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.johnnyB.Navigation-Bar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -285,6 +288,7 @@
 				B2DDD0EE1DC543C500EA7ABF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
